@@ -1,4 +1,6 @@
 # -------- Global Variable ----------
+
+
 # Game Board
 board = ["-", "-", "-",
          "-", "-", "-",
