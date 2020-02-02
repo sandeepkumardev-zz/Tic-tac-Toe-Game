@@ -1,3 +1,3 @@
 # Tic-tac-Toe-Game
 <br />
-<img src="images/scr.jpg" alt="image" />
+<img src="photo.png" alt="image" />
